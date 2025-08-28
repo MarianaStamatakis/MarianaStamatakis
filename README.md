@@ -1,7 +1,7 @@
 <!-- Banner opcional (pode trocar a imagem pelo seu estilo) -->
-![Banner](https://img.shields.io/badge/Mariana%20Stamatakis%20Trevisani-Dados%20que%20contam%20histórias-6A5ACD?style=for-the-badge&logo=data:image/svg+xml;base64)
+![Banner](./img/Mariana%20Stamatakis%20Trevisani.png)
 
-# 👋 Olá, eu sou a **Mariana Stamatakis Trevisani**  
+# 👋 Olá! Sou a **Mari**, 
 
 💡 **Analista de Dados | Business Intelligence**  
 📊 **SQL • Power BI • Tableau • Storytelling**  
@@ -23,16 +23,16 @@ Meu foco é unir **análise técnica** com **comunicação visual** para entrega
 ## 🛠️ Habilidades
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-3776AB?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-336791?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📬 Contato
-[![Email](https://img.shields.io/badge/📫%20E--mail-mariana.stamatakis%40gmail.com-red?style=for-the-badge)](mailto:mariana.stamatakis@gmail.com)  
+[![Email](https://img.shields.io/badge/📫%20-mariana.stamatakis%40gmail.com-0A66C2?style=for-the-badge&logo)](mailto:mariana.stamatakis@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianastamatakistrevisani/)  
 
 ---
 
-⭐ *Confira meus repositórios e projetos — sempre aberto(a) a novas conexões e colaborações!*
+⭐ *Confira meus repositórios e projetos — sempre disposta a novas conexões e colaborações!*
