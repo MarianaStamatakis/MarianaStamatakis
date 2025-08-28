@@ -7,6 +7,7 @@
 ---
 
 ## 💼 Sobre mim
+
 Sou apaixonada por **dados** e por transformar informações em **histórias visuais** que geram impacto.  
 Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e análises que ajudam na tomada de decisão.
 
@@ -14,7 +15,7 @@ Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e a
 
 ## 🛠 Tecnologias e Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-C3B9F7?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E6C9E6?style=for-the-badge&logo=tableau&logoColor=black"/>
@@ -22,12 +23,20 @@ Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e a
 </p>
 
 ---
+<!--
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&theme=dracula)
+-->
+---
 
 ## 📊 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **Saúde Financeira dos Bancos do Brasil** | Dashboard interativo com insights, filtros dinâmicos e KPIs estratégicos | Power BI, SQL |
+| **[Análise Bancos BR 2019–2024](https://github.com/MarianaStamatakis/Analise-Bancos-BR-2019-2024)** | Dashboard interativo com KPIs e insights financeiros | SQL, Power BI |
 | **Análise de Churn** | Atualmente em construção, esse projeto tem por objetivo identificar os clientes com risco de cancelamento | Python, Tableau |
 | **Relatório Financeiro** | Projeto de automação previsto para início em setembro | Excel, Power Query |
 
@@ -35,19 +44,22 @@ Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e a
 
 ## 📫 Contato
 
-<p align="center">
+
   <a href="https://www.linkedin.com/in/marianastamatakistrevisani/">
-    <img src="https://img.shields.io/badge/LinkedIn-4B4E6D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4B4E6D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@example.com">
-    <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:mariana.stamatakis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://wa.me/5521981766613?text=Ol%C3%A1%2C%20Mariana.%20Tudo%20bem%3F%20Encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conhecer%20melhor%20o%20seu%20trabalho%20e%20projetos.">
+    <img src="https://img.shields.io/badge/WhatsApp-C3B9F7?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 
 ---
 
 <div align="center" style="color:#4B4E6D;">
-  Feito com 💜 por Mariana Stamatakis Trevisani
+  ⭐ Confira meus repositórios e projetos — sempre disposta a novas conexões e colaborações!
 </div>
 
 
