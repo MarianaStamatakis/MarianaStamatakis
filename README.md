@@ -13,6 +13,7 @@
 
 Sou apaixonada por **dados** e por transformar informações em **histórias visuais** que geram impacto.  
 Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e análises que ajudam na tomada de decisão.
+Estudando Python e AWS.
 
 ---
 
