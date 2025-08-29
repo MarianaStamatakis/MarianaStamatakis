@@ -1,8 +1,11 @@
 <!-- Banner -->
 ![Banner](./img/Mariana%20Stamatakis%20Trevisani.png)
 
-<!-- Título -->
-<h1 align="center" style="color:#6A5ACD;">Olá, eu sou a Mari 👋</h1>
+# Olá, sou a Mari 👋
+
+💼 **Analista de Dados | Business Intelligence | SQL • Power BI • Tableau • Python**  
+📍 São Paulo - Brasil  
+🔗 [LinkedIn](https://www.linkedin.com/in/marianastamatakistrevisani) | [Portfólio Online em Breve](#)  
 
 ---
 
@@ -22,14 +25,12 @@ Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e a
   <img src="https://img.shields.io/badge/Excel-4B4E6D?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
----
-<!--
----
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&title_color=6A5ACD&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=420" 
+      alt="Top Langs" 
+    />
 
-## 📊 Minhas Estatísticas no GitHub
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&theme=dracula)
--->
 ---
 
 ## 📊 Projetos em Destaque
@@ -37,8 +38,43 @@ Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e a
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **[Análise Bancos BR 2019–2024](https://github.com/MarianaStamatakis/Analise-Bancos-BR-2019-2024)** | Dashboard interativo com KPIs e insights financeiros | SQL, Power BI |
-| **Análise de Churn** | Atualmente em construção, esse projeto tem por objetivo identificar os clientes com risco de cancelamento | Python, Tableau |
-| **Relatório Financeiro** | Projeto de automação previsto para início em setembro | Excel, Power Query |
+| [**Análise de Churn**](link-do-repo)  | Atualmente em construção, esse projeto tem por objetivo identificar os clientes com risco de cancelamento | Python, Tableau |
+| [**Relatório Financeiro Automatizado**](link-do-repo)| Projeto de automação previsto para início em setembro | Excel, Power Query |
+
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaStamatakis&bg_color=F8F9FA&color=2F4F4F&line=6A5ACD&point=9370DB&area=true&hide_border=true&radius=12" 
+    alt="Gráfico de Atividade" 
+    style="border-radius: 12px;" 
+  />
+</p>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+
+
+<!-- Bloco lado a lado -->
+<p align="left">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=MarianaStamatakis&show_icons=true&hide_border=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=420" 
+    alt="Mari's GitHub stats" 
+  />
+</p>
+
+<!-- Gráfico de atividade -->
+
+</div>
+
+<!--
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&theme=dracula)
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaStamatakis&show_icons=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA)
+
+---
+-->
 
 ---
 
