@@ -51,7 +51,7 @@ Estudando Python e AWS.
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Análise Bancos BR 2019–2024](https://github.com/MarianaStamatakis/Analise-Bancos-BR-2019-2024)** | Dashboard interativo com KPIs e insights financeiros | SQL, Power BI |
+| **[Análise Bancos BR 2019–2024](https://github.com/MarianaStamatakis/analise-bancos-br-2019-2024)** | Dashboard interativo com KPIs e insights financeiros | SQL, Power BI |
 | [**Análise de Churn**](link-do-repo)  | Atualmente em construção, esse projeto tem por objetivo identificar os clientes com risco de cancelamento | Python, Tableau |
 | [**Relatório Financeiro Automatizado**](link-do-repo)| Projeto de automação previsto para início em setembro | Excel, Power Query |
 
