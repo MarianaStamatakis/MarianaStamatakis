@@ -1,15 +1,28 @@
 <!-- Banner -->
-![Banner](./img/Mariana%20Stamatakis%20Trevisani.png)
 
-# Olá, sou a Mari 👋
-
-💼 **Analista de Dados | Business Intelligence | SQL • Power BI • Tableau • Python**  
-📍 São Paulo - Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/marianastamatakistrevisani) | [Portfólio Online em Breve](#)  
+ <strong> 
+   <h1>
+      Mariana Stamatakis Trevisani 
+   </h1>
+ </strong>
+ 
+ **Analista de Dados | Business Intelligence | SQL • Power BI • Tableau • Python**  
+ 
+ <p align="left">
+    <a href="https://www.linkedin.com/in/marianastamatakistrevisani/">
+    <img src="https://img.shields.io/badge/LinkedIn-4B4E6D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/Em Breve Portfólio-C3B9F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Sobre mim
+## Olá, Bem vindo ao meu perfil 👋
+
+
+### 💼 Sobre mim
 
 Sou apaixonada por **dados** e por transformar informações em **histórias visuais** que geram impacto.  
 Atualmente, atuo com **Power BI**, **SQL** e **Tableau**, criando dashboards e análises que ajudam na tomada de decisão.
@@ -17,7 +30,7 @@ Estudando Python e AWS.
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+### 🛠 Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -34,7 +47,7 @@ Estudando Python e AWS.
 
 ---
 
-## 📊 Projetos em Destaque
+### 📊 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -53,7 +66,7 @@ Estudando Python e AWS.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 
 
@@ -68,7 +81,7 @@ Estudando Python e AWS.
 
 <!-- Gráfico de atividade -->
 
-</div>
+
 
 <!--
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&theme=dracula)
