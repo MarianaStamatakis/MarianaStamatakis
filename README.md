@@ -45,13 +45,12 @@ Estudando Python e AWS.
   alt="Top Langs" 
 />
 
+
 <p align="center">
-  <img 
-    height="280"
-    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&count_private=true&title_color=6A5ACD&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&cache_seconds=3600&custom_title=Linguagens%20Mais%20Usadas%20💻&theme=default"
+  <img
+    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=6A5ACD&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&cache_seconds=3600&custom_title=Linguagens%20Mais%20Usadas%20💻"
     alt="Linguagens mais usadas"
-  />
-</p>
+
 
 ---
 
