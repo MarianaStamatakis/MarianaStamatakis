@@ -39,18 +39,11 @@ Estudando Python e AWS.
   <img src="https://img.shields.io/badge/Excel-4B4E6D?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-  <img 
-  height="200" 
-  src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&count_private=true&title_color=6A5ACD&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=420&cache_seconds=3600" 
-  alt="Top Langs" 
-/>
 
-
-<p align="center">
+<p align="left">
   <img
-    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=6A5ACD&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&cache_seconds=3600&custom_title=Linguagens%20Mais%20Usadas%20💻"
-    alt="Linguagens mais usadas"
-
+    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&custom_title=Linguagens%20Mais%20Utilizadas&v=3"
+</p>
 
 ---
 
