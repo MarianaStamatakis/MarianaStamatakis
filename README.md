@@ -42,7 +42,7 @@ Estudando Python e AWS.
 
 <p align="left">
   <img
-    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&custom_title=Linguagens%20Mais%20Utilizadas&v=3"
+    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api/top-langs/?username=MarianaStamatakis&layout=compact&langs_count=8&hide_border=true&count_private=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=450&custom_title=Linguagens%20Mais%20Utilizadas&v=3"/>
 </p>
 
 ---
@@ -55,26 +55,29 @@ Estudando Python e AWS.
 | [**Análise de Churn**](link-do-repo)  | Atualmente em construção, esse projeto tem por objetivo identificar os clientes com risco de cancelamento | Python, Tableau |
 | [**Relatório Financeiro Automatizado**](link-do-repo)| Projeto de automação previsto para início em setembro | Excel, Power Query |
 
-<p align="center">
-  <img 
-    width="100%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaStamatakis&bg_color=F8F9FA&color=2F4F4F&line=6A5ACD&point=9370DB&area=true&hide_border=true&radius=12" 
-    alt="Gráfico de Atividade" 
-    style="border-radius: 12px;" 
-  />
-</p>
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
-
-
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianaStamatakis&bg_color=F8F9FA&color=2F4F4F&line=6A5ACD&point=9370DB&area=true&hide_border=true&radius=12" 
+    alt="Gráfico de Atividade" 
+    style="border-radius: 12px;" 
+  />
+</p>
+<!--<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MarianaStamatakis&bg_color=0D1117&color=C9D1D9&line=6A5ACD&point=6A5ACD&area=true&hide_border=true&border_radius=12"
+  alt="Gráfico de Atividades"
+  width="100%"
+/>
+-->
 <!-- Bloco lado a lado -->
 <p align="left">
   <img 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=MarianaStamatakis&show_icons=true&hide_border=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=420" 
+    src="https://github-readme-stats-git-master-marianastamatakis-projects.vercel.app/api?username=MarianaStamatakis&show_icons=true&hide_border=true&count_private=true&title_color=6A5ACD&icon_color=9370DB&text_color=2F4F4F&bg_color=F8F9FA&border_radius=12&card_width=420" 
     alt="Mari's GitHub stats" 
   />
 </p>
